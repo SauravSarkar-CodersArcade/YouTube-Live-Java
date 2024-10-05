@@ -1,0 +1,12 @@
+return_type method_name(){
+
+}
+return_type method_name(arguments){
+
+}
+static return_type method_name(arguments){
+
+}
+access_modifier static return_type method_name(arguments){
+
+}
